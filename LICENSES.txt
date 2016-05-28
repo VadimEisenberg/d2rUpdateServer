@@ -1,8 +1,6 @@
 The D2R/Update Server code is under Apache 2.0 license.
 
 The project requires the following jars in addition to the jars required by D2R Server:
-1. jsqlparser - http://jsqlparser.sourceforge.net/, GNU LGPL License
-Must be downloaded from http://d2rqupdate.cs.technion.ac.il/downloads/jsqlparser.rar, 
-since the code was modified to handle backticks (`)
+1. jsqlparser - https://github.com/JSQLParser/JSqlParser, LGPL V2.1 and Apache Software License, Version 2.0
 2. jgrahpt - http://www.jgrapht.org/, GNU LGPL License
 3. d2rqUpdate - http://d2rqupdate.cs.technion.ac.il/, Apache 2.0 License
