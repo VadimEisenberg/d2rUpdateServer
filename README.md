@@ -1,4 +1,6 @@
 # d2rUpdateServer
+NOT SUPPORTED. Developed during my M.Sc. studies in 2010.
+
 D2R/Update Server
 
 # License
